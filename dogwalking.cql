@@ -1,4 +1,5 @@
 USE dogwalking;
+
 CREATE TABLE dogwalker ( 
     id UUID PRIMARY KEY,
     name text,
@@ -7,7 +8,7 @@ CREATE TABLE dogwalker (
     neighborhood text
 );
 CREATE TYPE dog ( 
-    id UUID PRIMARY KEY,
+    id UUID,
     name text,
     breed text,
     age int,
