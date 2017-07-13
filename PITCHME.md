@@ -31,18 +31,31 @@
 - Relax consistency
 - Denormalization of data
 
+---
 
+# Cassandra
+ A fully distributed, masterless database, offering superior scalability, 
+ and fault tolerance to traditional single-master databases
 
+---
 
-#HSLIDE
+# Horizontal scalability
 
+---
 
-#HSLIDE
+# High availability
 
+---
+# Write Optimization
 
-#HSLIDE
+---
 
-#HSLIDE
+# Efficient result ordering
 
+---
 
-#HSLIDE
+# Immediate Consistency
+
+---
+
+# Creating a keyspace
