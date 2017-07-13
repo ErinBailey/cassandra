@@ -8,6 +8,8 @@
 - No referential integrity
 - Denormalization
 
+---
+
 # Key Differences
 - Query-First Design
 - Designing for optimal storage
