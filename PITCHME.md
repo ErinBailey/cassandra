@@ -2,24 +2,25 @@
 ![CASSANDRA](pics/cassandraLogo.png)
 ---
 
-## Key Differences
-
-### No Joins
+# Key Differences
+![riley1](pics/Riley1.png)
+## No Joins
 
 ---
-## Key Differences
-
-### No referential integrity
+# Key Differences
+![riley2](pics/Riley2.png)
+## No referential integrity
   * Definition: A relational database concept which states that table relationships must always be consistent.
 
 ---
-## Key Differences
-
-### Denormalization
+# Key Differences
+![riley3](pics/Riley3.png)
+## Denormalization
 
 ---
-## Key Differences
-### Query-First Design
+# Key Differences
+![riley4](pics/Riley4.png)
+## Query-First Design
   * An approach where you don't start with the data model
 
 ---
