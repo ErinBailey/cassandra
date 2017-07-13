@@ -39,7 +39,7 @@
 
 ---
 
-# Why not relational databases?
+## Why not relational databases?
 ### - Not designed for clustered solutions
 ### - Not a good fit for current hardware and architectures
 
