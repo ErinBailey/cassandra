@@ -17,6 +17,21 @@
 - Designing for optimal storage
 
 
+---
+
+# Why not relational databases?
+- Not designed for clustered solutions
+- Not a good fit for current hardware and architectures
+
+---
+
+# Solutions
+- Clustering
+- Flexible Schema
+- Relax consistency
+- Denormalization of data
+
+
 
 
 #HSLIDE
