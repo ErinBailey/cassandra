@@ -6,13 +6,14 @@
 ## No Joins
 ![riley1](pics/Riley1.jpg)
 
-
 ---
 # Key Differences
 ## No referential integrity
   * Definition: A relational database concept which states that table relationships must always be consistent.
 ![riley2](pics/Riley2.jpg)
 
+---
+![schema](pics/dogSchema.png)
 
 ---
 # Key Differences
@@ -37,7 +38,6 @@
 #### - Not a good fit for current hardware and architectures
 
 ---
-
 # Solutions
 - Clustering
 - Flexible Schema
@@ -45,13 +45,11 @@
 - Denormalization of data
 
 ---
-
 # Cassandra
  A fully distributed, masterless database, offering superior scalability,
  and fault tolerance to traditional single-master databases
 
 ---
-
 # Horizontal scalability
 
 ---
@@ -62,13 +60,10 @@
 # Write Optimization
 
 ---
-
 # Efficient result ordering
 
 ---
-
 # Immediate Consistency
 
 ---
-
 # Creating a keyspace
