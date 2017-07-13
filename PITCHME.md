@@ -1,5 +1,5 @@
-#PITCH!
-
+![ORACLE](pics/oracleLogo.png)
+![CASSANDRA](pics/cassandraLogo.png)
 ---
 
 # Key Differences
@@ -16,3 +16,18 @@
 - Query-First Design
 - Designing for optimal storage
 
+
+
+
+#HSLIDE
+
+
+#HSLIDE
+
+
+#HSLIDE
+
+#HSLIDE
+
+
+#HSLIDE
