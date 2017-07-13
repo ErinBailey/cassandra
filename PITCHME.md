@@ -32,16 +32,9 @@
  * A query that searches a single partition will typically yield the best performance
 
 ---
-# Key Differences
-
-## Designing for optimal storage
-
-
----
-
 ## Why not relational databases?
-### - Not designed for clustered solutions
-### - Not a good fit for current hardware and architectures
+#### - Not designed for clustered solutions
+#### - Not a good fit for current hardware and architectures
 
 ---
 
