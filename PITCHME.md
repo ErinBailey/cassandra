@@ -3,17 +3,35 @@
 ---
 
 # Key Differences
+
 - No Joins
+
+---
+# Key Differences
+
 - No referential integrity
-- No referential integrity
+  * Definition: A relational database concept which states that table relationships must always be consistent.
+
+---
+# Key Differences
+
 - Denormalization
 
 ---
-
 # Key Differences
 - Query-First Design
+  * An approach where you don't start with the data model
+
+---
+# Key Differences
+
 - Designing for optimal storage
-- Query-First Design
+ * A partition is a unit of storage that does not get divided across nodes
+ * A query that searches a single partition will typically yield the best performance
+
+---
+# Key Differences
+
 - Designing for optimal storage
 
 
