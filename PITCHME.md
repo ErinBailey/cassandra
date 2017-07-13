@@ -3,19 +3,21 @@
 ---
 
 # Key Differences
-![riley1](pics/Riley1.png)
 ## No Joins
+![riley1](pics/Riley1.png)
+
 
 ---
 # Key Differences
-![riley2](pics/Riley2.png)
 ## No referential integrity
   * Definition: A relational database concept which states that table relationships must always be consistent.
+![riley2](pics/Riley2.png)
+
 
 ---
 # Key Differences
-![riley3](pics/Riley3.png)
 ## Denormalization
+![riley3](pics/Riley3.png)
 
 ---
 # Key Differences
@@ -24,23 +26,22 @@
   * An approach where you don't start with the data model
 
 ---
-## Key Differences
-
-### Designing for optimal storage
+# Key Differences
+## Designing for optimal storage
  * A partition is a unit of storage that does not get divided across nodes
  * A query that searches a single partition will typically yield the best performance
 
 ---
-## Key Differences
+# Key Differences
 
-### Designing for optimal storage
+## Designing for optimal storage
 
 
 ---
 
-### Why not relational databases?
-- Not designed for clustered solutions
-- Not a good fit for current hardware and architectures
+# Why not relational databases?
+### - Not designed for clustered solutions
+### - Not a good fit for current hardware and architectures
 
 ---
 
