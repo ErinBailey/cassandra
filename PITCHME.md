@@ -55,7 +55,7 @@
 ---
 
 # High availability
-![Ruthie](pics/ruthie.jpg)
+![Ruthie](pics/ruuthie.jpg)
 
 ---
 # Write Optimization
