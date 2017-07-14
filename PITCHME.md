@@ -8,7 +8,12 @@
 
 ---
 
-![schema](pics/dogSchema.png)
+
+![riley1](pics/Riley1.jpg)
+
+---
+
+![cassandra](pics/clustering.png)
 
 ---
 # Key Differences
