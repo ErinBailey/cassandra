@@ -46,6 +46,7 @@
 - Flexible Schema
 - Relax consistency
 - Denormalization of data
+
 ![sabino2](pics/1419809252093.jpg)
 
 ---
