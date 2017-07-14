@@ -59,15 +59,15 @@
 
 ---
 # Write Optimization
-![Foxy2](pics/1433282259267.jpg)
+![Foxy2](pics/foxysoxy.jpg)
 
 ---
 # Efficient result ordering
-![Frankie](pics/20170102_165024.jpg)
+![Frankie](pics/frankmeister.jpg)
 
 ---
 # Immediate Consistency
-![Leo](pics/20140607_101416.jpg)
+![Sabinoo](pics/lilsabino.jpg)
 
 ---
 # Creating a keyspace
