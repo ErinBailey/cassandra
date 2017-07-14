@@ -57,6 +57,11 @@
 ![Ruthie](pics/ruuthie.jpg)
 
 ---
+# CAP
+- Consistency - Every read receives the most recent write or an error
+- Availability -Every request receives a (non-error) response – without guarantee that it contains the most recent write
+- Partition Tolerance - The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+---
 # Write Optimization
 ![Foxy2](pics/foxysoxy1.jpg)
 
