@@ -1,23 +1,21 @@
 ![ORACLE](pics/oracleLogo.png)
 ![CASSANDRA](pics/cassandraLogo.png)
----
-
-# Key Differences
-## No Joins
-![riley1](pics/Riley1.jpg)
-
----
-
-![schema](pics/dogSchema.png)
-
----
-
-![cassandra](pics/clustering.png)
 
 ---
 # Cassandra
  A fully distributed, masterless database, offering superior scalability,
  and fault tolerance to traditional single-master databases
+
+---
+# Key Differences
+## No Joins
+![riley1](pics/Riley1.jpg)
+
+---
+![schema](pics/dogSchema.png)
+
+---
+![cassandra](pics/clustering.png)
 
 ---
 # Key Differences
