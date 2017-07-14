@@ -8,12 +8,16 @@
 
 ---
 
-
 ![schema](pics/dogSchema.png)
 
 ---
 
 ![cassandra](pics/clustering.png)
+
+---
+# Cassandra
+ A fully distributed, masterless database, offering superior scalability,
+ and fault tolerance to traditional single-master databases
 
 ---
 # Key Differences
@@ -44,21 +48,13 @@
 - Flexible Schema
 - Relax consistency
 - Denormalization of data
-
 ![sabino2](pics/1419809252093.jpg)
 
 ---
-# Cassandra
- A fully distributed, masterless database, offering superior scalability,
- and fault tolerance to traditional single-master databases
-
----
-
 # Horizontal scalability
 ![Governor2](pics/20160521_111220.jpg)
 
 ---
-
 # High availability
 ![Ruthie](pics/ruuthie.jpg)
 
@@ -77,3 +73,34 @@
 ---
 # Creating a keyspace
 ![Bessie](pics/20160908_155216.jpg)
+
+---
+
+- ```CREATE DATABASE dogWalking;```
+
+- ``` CREATE KEYSPACE dogWalking WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 1};```
+
+---
+``` 
+CREATE TABLE dogwalker ( 
+    id UUID PRIMARY KEY,
+    name text,
+    email text,
+    phoneNumber text,
+    neighborhood text
+); 
+CREATE TYPE dog ( 
+    id UUID,
+    name text,
+    breed text,
+    age int,
+);
+CREATE TABLE dogowner ( 
+    id UUID PRIMARY KEY,
+    name text,
+    email text,
+    phoneNumber text,
+    neighborhood text
+    dogs frozen list<<dog>>
+);
+```

@@ -19,5 +19,5 @@ CREATE TABLE dogowner (
     email text,
     phoneNumber text,
     neighborhood text
-    -- dogs frozen list<<dog>>
+    dogs frozen list<<dog>>
 );
