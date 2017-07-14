@@ -71,7 +71,7 @@
 ![Frankie](pics/frankmeister2.jpg)
 
 ---
-# Immediate Consistency
+# Eventual vs. Immediate Consistency
 ![Sabinoo](pics/lilsabino2.jpg)
 
 ---
