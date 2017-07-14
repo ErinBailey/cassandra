@@ -63,11 +63,11 @@
 
 ---
 # Efficient result ordering
-![Frankie](pics/frankmeister1.jpg)
+![Frankie](pics/frankmeister2.jpg)
 
 ---
 # Immediate Consistency
-![Sabinoo](pics/lilsabino1.jpg)
+![Sabinoo](pics/lilsabino2.jpg)
 
 ---
 # Creating a keyspace
