@@ -39,28 +39,36 @@
 - Flexible Schema
 - Relax consistency
 - Denormalization of data
+
 ![sabino2](pics/sabino.jpg)
 
 ---
 # Cassandra
  A fully distributed, masterless database, offering superior scalability,
  and fault tolerance to traditional single-master databases
-![Governor2](pics/20160521_111220.jpg)
+
 ---
+
 # Horizontal scalability
+![Governor2](pics/20160521_111220.jpg)
 
 ---
 
 # High availability
+![Ruthie](pics/ruthie.jpg)
 
 ---
 # Write Optimization
+![Foxy2](pics/1433282259267.jpg)
 
 ---
 # Efficient result ordering
+![Frankie](pics/20170102_165024.jpg)
 
 ---
 # Immediate Consistency
+![Leo](pics/20140607_101416.jpg)
 
 ---
 # Creating a keyspace
+![Bessie](pics/20160908_155216.jpg)
