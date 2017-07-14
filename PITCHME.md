@@ -98,7 +98,11 @@ CREATE TYPE dog (
     name text,
     breed text,
     age int,
-);
+); 
+```
+
+---
+``` 
 CREATE TABLE dogowner ( 
     id UUID PRIMARY KEY,
     name text,
