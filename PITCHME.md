@@ -40,7 +40,7 @@
 - Relax consistency
 - Denormalization of data
 
-![sabino2](pics/sabino.jpg)
+![sabino2](pics/1419809252093.jpg)
 
 ---
 # Cassandra
@@ -59,15 +59,15 @@
 
 ---
 # Write Optimization
-![Foxy2](pics/foxysoxy.jpg)
+![Foxy2](pics/foxysoxy1.jpg)
 
 ---
 # Efficient result ordering
-![Frankie](pics/frankmeister.jpg)
+![Frankie](pics/frankmeister1.jpg)
 
 ---
 # Immediate Consistency
-![Sabinoo](pics/lilsabino.jpg)
+![Sabinoo](pics/lilsabino1.jpg)
 
 ---
 # Creating a keyspace
