@@ -112,3 +112,8 @@ CREATE TABLE dogowner (
     dogs frozen list<<dog>>
 );
 ```
+
+---
+# Thank You!
+![foxxxy](pics/20141224_132700.jpg)
+
