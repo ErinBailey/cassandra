@@ -9,7 +9,7 @@
 ---
 
 
-![riley1](pics/Riley1.jpg)
+![schema](pics/dogSchema.png)
 
 ---
 
